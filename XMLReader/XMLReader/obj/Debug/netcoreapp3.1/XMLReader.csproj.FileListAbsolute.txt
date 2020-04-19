@@ -1,0 +1,13 @@
+/Users/osamasohail/Projects/XMLReader/XMLReader/bin/Debug/netcoreapp3.1/XMLReader.deps.json
+/Users/osamasohail/Projects/XMLReader/XMLReader/bin/Debug/netcoreapp3.1/XMLReader.runtimeconfig.json
+/Users/osamasohail/Projects/XMLReader/XMLReader/bin/Debug/netcoreapp3.1/XMLReader.runtimeconfig.dev.json
+/Users/osamasohail/Projects/XMLReader/XMLReader/bin/Debug/netcoreapp3.1/XMLReader.dll
+/Users/osamasohail/Projects/XMLReader/XMLReader/bin/Debug/netcoreapp3.1/XMLReader.pdb
+/Users/osamasohail/Projects/XMLReader/XMLReader/obj/Debug/netcoreapp3.1/XMLReader.csprojAssemblyReference.cache
+/Users/osamasohail/Projects/XMLReader/XMLReader/obj/Debug/netcoreapp3.1/XMLReader.csproj.CoreCompileInputs.cache
+/Users/osamasohail/Projects/XMLReader/XMLReader/obj/Debug/netcoreapp3.1/XMLReader.AssemblyInfoInputs.cache
+/Users/osamasohail/Projects/XMLReader/XMLReader/obj/Debug/netcoreapp3.1/XMLReader.AssemblyInfo.cs
+/Users/osamasohail/Projects/XMLReader/XMLReader/obj/Debug/netcoreapp3.1/XMLReader.dll
+/Users/osamasohail/Projects/XMLReader/XMLReader/obj/Debug/netcoreapp3.1/XMLReader.pdb
+/Users/osamasohail/Projects/XMLReader/XMLReader/obj/Debug/netcoreapp3.1/XMLReader.genruntimeconfig.cache
+/Users/osamasohail/Projects/XMLReader/XMLReader/bin/Debug/netcoreapp3.1/SEC-0000950123-09-019360.xml

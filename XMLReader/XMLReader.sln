@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLReader", "XMLReader\XMLReader.csproj", "{EDC0D578-BE5C-4818-9A87-00A413620624}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8549E024-5E50-4D0C-970B-5F8BA64A7E54}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC0D578-BE5C-4818-9A87-00A413620624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC0D578-BE5C-4818-9A87-00A413620624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC0D578-BE5C-4818-9A87-00A413620624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC0D578-BE5C-4818-9A87-00A413620624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
