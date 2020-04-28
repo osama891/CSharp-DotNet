@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Models\" />
+    <Folder Include="Views\" />
+    <Folder Include="Views\Home\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="Views\Search\" />
+    <Folder Include="Views\Shared\" />
+    <Folder Include="wwwroot\" />
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Twitter.Bootstrap" Version="3.0.1.1" />
+  </ItemGroup>
+</Project>
