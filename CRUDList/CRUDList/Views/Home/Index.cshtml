@@ -1,0 +1,46 @@
+﻿
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    ViewBag.Title = "Employee Details";
+}
+
+    <div class="row justify-content-center m-3">
+        <form>
+            <input class="form-control"
+                   id="searchs"
+                   name="searchs"
+                   type="text"
+                   value="" />
+
+
+            <a  onclick='navigate(this.href);'>
+                <input type="button" value='Submit' />
+            </a>
+
+
+
+
+
+        </form>
+
+    </div>
+
+<script type='text/javascript'>function navigate(target) {
+        //Grab your values
+        var search = document.getElementById('searchs').value;
+       
+
+    //Perform your navigation
+    window.location.href = target +'/Search/Result/'+ search;
+    }
+
+    </script>
+
+@section Scripts {
+    <script src="~/lib/twitter-bootstrap/js/bootstrap.js"></script>
+    <script src="~/lib/twitter-bootstrap/js/bootstrap.bundle.js"></script>
+
+
+}

@@ -1,0 +1,40 @@
+﻿
+@model CRUDList.ViewModels.HomeDetailsViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    ViewBag.Title = "Employee Details";
+}
+
+<div class="row justify-content-center m-3">
+    <div class="col-sm-8">
+        <div class="card">
+            <div class="card-header">
+                <h1>@Model.title</h1>
+            </div>
+
+            <div class="card-body text-center">
+                <img class="card-img-top" src="~/images/noimage.jpg" />
+
+                <h4>Employee ID : @Model.task.Id</h4>
+                <h4>Description : @Model.task.Description</h4>
+                <h4>Priority : @Model.task.Priority</h4>
+                <h4>Status : @Model.task.Status</h4>
+
+
+            </div>
+            <div class="card-footer text-center">
+                <a href="~/home/edit/@Model.task.Id" class="btn btn-primary">Edit</a>
+                <a href="~/home/delete/@Model.task.Id" class="btn btn-danger">Delete</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/lib/twitter-bootstrap/js/bootstrap.js"></script>
+    <script src="~/lib/twitter-bootstrap/js/bootstrap.bundle.js"></script>
+
+
+}
